@@ -2,6 +2,10 @@
 D1 Mini Temp and influxdb Display
 
 Connects to WIFI, gets Time from NTP, Gets info from InfluxDB and displays it on screen. 
+
+Can display data from BME and from InfluxDB querry.
+Can prettymuch display any value, but for ease of setup. I kept it basic
+
 Script made by MoxL  - V0.4
 
 # Needed:
