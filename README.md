@@ -1,7 +1,8 @@
 # ESP-Temperature-InfluxDB-Monitor
 D1 Mini Temp and influxdb Display
+
 Connects to WIFI, gets Time from NTP, Gets info from InfluxDB and displays it on screen. 
-SCript made by MoxL  - V0.4
+Script made by MoxL  - V0.4
 
 # Needed:
   - Wemos D1 Mini ESP8266ex v3.0.0
