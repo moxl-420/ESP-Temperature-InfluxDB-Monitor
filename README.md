@@ -10,9 +10,13 @@ In this example it will rotate between 3 screens
 - First screen : BME data
 - Second screen : Date and day
 - Third screen : Data from InfluxDB
-https://i.imgur.com/urLjRWH.png
+
+See picture for Screen Display https://i.imgur.com/urLjRWH.png
 
 Script made by MoxL  - V0.4
+
+This will probably fit any Octoprint monitor on thingiverse if you can fit the bme280.
+The BME Display is not required and can be ran on only InfluxDB, They are not link to eachother's data.
 
 # Needed:
   - Wemos D1 Mini ESP8266ex v3.0.0
