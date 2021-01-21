@@ -6,6 +6,12 @@ Connects to WIFI, gets Time from NTP, Gets info from InfluxDB and displays it on
 Can display data from BME and from InfluxDB querry.
 Can prettymuch display any value, but for ease of setup. I kept it basic
 
+In this example it will rotate between 3 screens
+- First screen : BME data
+- Second screen : Date and day
+- Third screen : Data from InfluxDB
+https://i.imgur.com/urLjRWH.png
+
 Script made by MoxL  - V0.4
 
 # Needed:
